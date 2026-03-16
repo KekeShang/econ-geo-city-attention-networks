@@ -97,9 +97,10 @@ python main.py cn  # Execute code for China
 python main.py us  # Execute code for the United States
 ```
 
-## Citation
+## Citation Requirement
 
-If you find this repository useful for your research, please cite the following paper:
+This repository implements the framework proposed in the following paper.  
+**If you use any part of this code, data, or core ideas—including the hypothesis that economy and geography jointly shape the collective attention of cities—you must cite our work.**
 
 ```bibtex
 @article{shang2025economy,
